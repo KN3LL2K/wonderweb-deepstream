@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@deepstream/server": "^5.2.4"
+  },
+  "name": "wonderweb-deepstream",
+  "description": "",
+  "version": "1.0.0",
+  "main": "start.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KN3LL2K/wonderweb-deepstream.git"
+  },
+  "author": "Harry Bellenie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KN3LL2K/wonderweb-deepstream/issues"
+  },
+  "homepage": "https://github.com/KN3LL2K/wonderweb-deepstream#readme"
+}
